@@ -1,0 +1,20 @@
+{
+  "name": "ShopifyChallenge",
+  "version": "1.0.0",
+  "description": "Shopify intern 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanPhan1112/ShopifyChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanPhan1112/ShopifyChallenge/issues"
+  },
+  "homepage": "https://github.com/TanPhan1112/ShopifyChallenge#readme"
+}
